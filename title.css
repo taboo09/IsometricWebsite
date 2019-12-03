@@ -1,0 +1,27 @@
+.sub-content{    
+	margin: 1.5rem auto;
+	width: 80%;
+    /* place-content: center; */
+    align-items: center;
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+}
+.line{
+	height: 3px;
+	background:	#783b8a;
+	/* width: 100%; */
+}
+h3.section-title{
+	background-color: #fff;
+	padding: 0 10px;
+	text-align: center;
+	margin: 5px 0;
+	white-space: nowrap;
+}
+.line-short{
+	width: 10%;
+}
+.line-long{
+	width:90%;
+}

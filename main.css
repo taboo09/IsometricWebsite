@@ -107,6 +107,7 @@ main {
 .card {
 	/* background-image: url(https://i.postimg.cc/Vspg0Nn2/business-card-backgrounds.png); */
 	background-color: lightblue;
+	opacity: .954;
 	background-size: 200% 200%;
 	box-shadow: -1px -1px 0 rgba(0,0,0,0.2) inset;
 	color: #000;
